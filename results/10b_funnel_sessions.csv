@@ -1,0 +1,6 @@
+step,step_name,sessions,step_rate,pct_of_view_sessions
+1,view_item,77020,,100.0
+2,add_to_cart,15167,19.7,19.7
+3,begin_checkout,5416,35.7,7.0
+4,add_payment_info,3831,70.7,5.0
+5,purchase,2834,74.0,3.7

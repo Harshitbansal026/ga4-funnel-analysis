@@ -1,0 +1,5 @@
+path_before_checkout,users,returning_users,pct_returning
+viewed + carted,5656,556,9.8
+"viewed, no cart",3981,574,14.4
+neither,77,8,10.4
+"carted, no view",1,0,0.0
